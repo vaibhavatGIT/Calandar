@@ -1,5 +1,5 @@
 import './App.css';
-import { Calandar } from './Components';
+import { Calandar } from './Comp';
 
 function App() {
   return (
